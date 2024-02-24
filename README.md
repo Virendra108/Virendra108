@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">An Aspiring Full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog](https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif)"
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1zUBsRtBxEPiQOi_Ap_Xs_yShoW1wVMlZ/view"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virendra108&label=Profile%20views&color=0e75b6&style=flat" alt="virendra108" /> </p>
 
