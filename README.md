@@ -1,8 +1,9 @@
+[![](https://visitcount.itsvg.in/api?id=Virendra108&icon=6&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">An Aspiring Full stack developer </h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1zUBsRtBxEPiQOi_Ap_Xs_yShoW1wVMlZ/view"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virendra108&label=Profile%20views&color=0e75b6&style=flat" alt="virendra108" /> </p>
+
 
 - 📫 How to reach me **virendra0252@gmail.com**
 
@@ -24,4 +25,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=Virendra108&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Virendra108&icon=6&color=0)](https://visitcount.itsvg.in)
