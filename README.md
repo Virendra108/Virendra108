@@ -1,14 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=Virendra108&icon=6&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">An Aspiring Full stack developer </h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1zUBsRtBxEPiQOi_Ap_Xs_yShoW1wVMlZ/view"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-
-
-- 📫 How to reach me **virendra0252@gmail.com**
 
 # 💫 About Me:
-🌱 I’m currently learning Java and Python for DS<br>🤝 I’m looking for help with GO language
+🌱 I’m currently learning Java and Python for DS<br>🤝 I’m looking for help with GO language <br>📫 How to reach me **virendra0252@gmail.com**
 
 
 ## 🌐 Socials:
