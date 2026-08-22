@@ -1,6 +1,6 @@
 <svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Virendra Ghule, Computer Engineer &amp; Software Developer</title>
-  <desc id="desc">Software crafted with logic and purpose.</desc>
+  <title id="title">Virendra Ghule, AI &amp; Data Science Engineer</title>
+  <desc id="desc">Engineering intelligence with data &amp; modern AI.</desc>
   <style>
     .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
     .headline { font: italic 600 46px Georgia, 'Times New Roman', serif; fill: #1f2328; }
@@ -12,9 +12,9 @@
       .rule { stroke: #30363d; }
     }
   </style>
-  <text x="2" y="26" class="label">VIRENDRA GHULE / COMPUTER ENGINEER</text>
+  <text x="2" y="26" class="label">VIRENDRA GHULE / AI &amp; DATA SCIENCE ENGINEER</text>
   <line x1="2" y1="45" x2="878" y2="45" class="rule" />
-  <text x="2" y="113" class="headline">software crafted with logic &amp; purpose.</text>
-  <text x="4" y="158" class="copy">architecting backend systems, exploring cloud platforms, and engineering with curiosity.</text>
+  <text x="2" y="113" class="headline">engineering intelligence with data &amp; modern ai.</text>
+  <text x="4" y="158" class="copy">specializing in machine learning systems, data science pipelines, and generative ai solutions.</text>
   <line x1="2" y1="192" x2="878" y2="192" class="rule" />
 </svg>
