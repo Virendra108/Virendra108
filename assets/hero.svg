@@ -1,10 +1,10 @@
-<svg width="880" height="200" viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="880" height="190" viewBox="0 0 880 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Virendra Ghule, AI &amp; Data Science Engineer</title>
   <desc id="desc">Turning data into intelligence.</desc>
   <style>
-    .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
-    .headline { font: italic 600 38px Georgia, 'Times New Roman', serif; fill: #1f2328; }
-    .copy { font: 400 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
+    .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; text-anchor: middle; }
+    .headline { font: italic 600 38px Georgia, 'Times New Roman', serif; fill: #1f2328; text-anchor: middle; }
+    .copy { font: 400 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; text-anchor: middle; }
     .rule { stroke: #d0d7de; }
     @media (prefers-color-scheme: dark) {
       .label, .copy { fill: #8b949e; }
@@ -12,9 +12,9 @@
       .rule { stroke: #30363d; }
     }
   </style>
-  <text x="2" y="26" class="label">VIRENDRA GHULE / AI &amp; DATA SCIENCE ENGINEER</text>
-  <line x1="2" y1="45" x2="878" y2="45" class="rule" />
-  <text x="2" y="108" class="headline">turning data into intelligence.</text>
-  <text x="4" y="152" class="copy">machine learning, generative ai, and data-driven systems.</text>
-  <line x1="2" y1="184" x2="878" y2="184" class="rule" />
+  <text x="440" y="26" class="label">VIRENDRA GHULE / AI &amp; DATA SCIENCE ENGINEER</text>
+  <line x1="2" y1="44" x2="878" y2="44" class="rule" />
+  <text x="440" y="105" class="headline">turning data into intelligence.</text>
+  <text x="440" y="146" class="copy">machine learning, generative ai, and data-driven systems.</text>
+  <line x1="2" y1="176" x2="878" y2="176" class="rule" />
 </svg>
