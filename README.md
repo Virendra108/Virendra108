@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Virendra Ghule — engineering intelligence with data & modern AI" width="100%" />
+  <img src="./assets/hero.svg" alt="Virendra Ghule — turning data into intelligence" width="100%" />
 </p>
 
 <p align="center">

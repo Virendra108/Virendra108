@@ -1,10 +1,10 @@
-<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="880" height="200" viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Virendra Ghule, AI &amp; Data Science Engineer</title>
-  <desc id="desc">Engineering intelligence with data &amp; modern AI.</desc>
+  <desc id="desc">Turning data into intelligence.</desc>
   <style>
     .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
-    .headline { font: italic 600 46px Georgia, 'Times New Roman', serif; fill: #1f2328; }
-    .copy { font: 400 15px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
+    .headline { font: italic 600 38px Georgia, 'Times New Roman', serif; fill: #1f2328; }
+    .copy { font: 400 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
     .rule { stroke: #d0d7de; }
     @media (prefers-color-scheme: dark) {
       .label, .copy { fill: #8b949e; }
@@ -14,7 +14,7 @@
   </style>
   <text x="2" y="26" class="label">VIRENDRA GHULE / AI &amp; DATA SCIENCE ENGINEER</text>
   <line x1="2" y1="45" x2="878" y2="45" class="rule" />
-  <text x="2" y="113" class="headline">engineering intelligence with data &amp; modern ai.</text>
-  <text x="4" y="158" class="copy">specializing in machine learning systems, data science pipelines, and generative ai solutions.</text>
-  <line x1="2" y1="192" x2="878" y2="192" class="rule" />
+  <text x="2" y="108" class="headline">turning data into intelligence.</text>
+  <text x="4" y="152" class="copy">machine learning, generative ai, and data-driven systems.</text>
+  <line x1="2" y1="184" x2="878" y2="184" class="rule" />
 </svg>
